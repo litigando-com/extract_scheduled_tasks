@@ -1,5 +1,5 @@
 # Extract scheduled tasks from windows into a CSV
-Dependencies
+Run
 ```
-pip install pywin32
+venv-install.bat
 ```
